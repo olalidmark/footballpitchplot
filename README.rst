@@ -3,7 +3,7 @@ Footballpitchplot
 
 Python library using Plotly for plotting a football pitch with events. Examples can be found here: http://blog.stryktipsetisistastund.se/tag/plotly/
 
-Installaton
+Installation
 -----------------------
 Requires the plotly lib to be available and set up. See: https://plot.ly/python/getting-started/
 
